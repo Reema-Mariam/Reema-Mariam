@@ -63,6 +63,9 @@ Worked on analyzing datasets using Excel, SQL, Power BI and Python. Created dash
   <a href="https://www.linkedin.com/in/reema-mariam-a18630231">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+ <a href="https://broken-cost-f3a.notion.site/Reema-Mariam-S-Portfolio-191624c701fb80a99ff8ccb550f27cbb">
+  <img src="https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=white">
+</a>
   <a href="mailto:reemamariam3523@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
