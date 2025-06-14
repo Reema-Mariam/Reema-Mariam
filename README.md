@@ -22,7 +22,7 @@ With a solid foundation in **Excel, MySQL, Power BI and Python**, I bring struct
 
 ### 💼 Experience
 
-**Data Analyst Intern**  
+**Data Analyst Intern - Elevate Labs**  
 *Remote | May 2025 – June 2025*  
 Worked on analyzing datasets using Excel, SQL, Power BI and Python. Created dashboards and delivered insights on sample business data.
 
