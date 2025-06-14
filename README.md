@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F27059&center=true&vCenter=true&width=435&lines=Turning+data+into+decisions.;Fueling+business+growth+with+insights.;Ready+to+make+an+impact.">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F27059&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions.;Fueling+business+growth+with+insights.;Ready+to+make+an+impact.">
 
 </p>
 
